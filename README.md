@@ -1,3 +1,6 @@
+# OSlib
+C library for detecting OS using preprocessor.
+
 # Supported OS's
 
 * Windows - OS\_WINDOWS  
